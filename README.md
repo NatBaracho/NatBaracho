@@ -7,6 +7,6 @@ Sou [seu nome ou nome de usuário]! 🚀
 - 🌱 Aprendendo sobre [tecnologias ou áreas que está estudando].
 - 📫 Me encontre em:
   - [LinkedIn](https://www.linkedin.com/in/nat%C3%A3-baracho-7a997934a/)
-  - 📧 Email: natan.baracho@gmail.com
+  - 📧 Email: baracho.natan@gmail.com
 
 Obrigado por visitar meu perfil! 😃
