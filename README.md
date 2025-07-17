@@ -2,18 +2,40 @@
 # 💼 Sobre mim
 Profissional com mais de 20 anos de experiência em tecnologia da informação, apaixonado por inovação e transformação digital. Atuo com responsabilidade e compromisso na busca por soluções eficientes que impulsionem a evolução tecnológica de empresas e projetos. Tenho sólida vivência em supervisão de equipes de TI, infraestrutura de redes, suporte técnico, segurança digital e desenvolvimento de sistemas.
 
+
 # 🛠️Hard Skill
 - Infraestrutura de TI e redes
 - Suporte técnico e manutenção de sistemas
 - Desenvolvimento de sistemas
 - Segurança digital
-- Instalação e configuração de servidores e câmeras de seguranç
+- Instalação e configuração de servidores e câmeras de segurança
 # 🤝 Soft Skill
 - Comunicação eficaz
 - Trabalho em equipe
 - Organização
 - Criatividade
 - Flexibilidade
+# 🎓Graguação
+2024 – Atual (em andamento)
+📘 Engenharia de Software – [Anhanguera](https://www.anhanguera.com)
+Curso superior em andamento com foco em desenvolvimento de sistemas, arquitetura de software e práticas modernas de engenharia.
+
+2024 – Atual (em andamento)
+🖥️ Desenvolvimento de Sistemas e TI – [SENAI](https://www.senai-ce.org.br/paginas/unidade-juazeiro-do-norte)
+Formação técnica em andamento voltada para programação, redes, banco de dados e infraestrutura de tecnologia da informação.
+
+2019 (concluído)
+📖 Bacharelado em Teologia – [Faculdade Batista Regular](https://www.faculdadebatistacariri.edu.br)
+Formação completa em teologia com foco em pensamento crítico, exegese bíblica e estudos nas línguas originais — hebraico e grego — para interpretação contextual das Escrituras.
+
+2013 (concluído)
+🛢️ Tecnologia em Petróleo, Gás e Biocombustíveis – [Universidade Potiguar (RN)](https://www.unp.br)
+Curso de nível superior tecnólogo, completo, com foco em processos industriais, segurança operacional e gestão de recursos energéticos renováveis e não renováveis.
+
+2006 (concluído)
+💻 Técnico em Sistemas da Informação – [T&T Informática](https://www.instagram.com/tetcursos_oficial)
+Formação técnica com foco em redes, manutenção de computadores, suporte técnico e design gráfico.
+
 
 # Conect-se comigo
 
