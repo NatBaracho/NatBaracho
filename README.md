@@ -1,13 +1,20 @@
-# NatBaracho
-# Olá! 👋
+# Natã Bracho
+# 💼 Sobre mim
+Profissional com mais de 20 anos de experiência em tecnologia da informação, apaixonado por inovação e transformação digital. Atuo com responsabilidade e compromisso na busca por soluções eficientes que impulsionem a evolução tecnológica de empresas e projetos. Tenho sólida vivência em supervisão de equipes de TI, infraestrutura de redes, suporte técnico, segurança digital e desenvolvimento de sistemas.
 
-Sou [seu nome ou nome de usuário]! 🚀
+# 🛠️Hard Skill
+- Infraestrutura de TI e redes
+- Suporte técnico e manutenção de sistemas
+- Desenvolvimento de sistemas
+- Segurança digital
+- Instalação e configuração de servidores e câmeras de seguranç
+# 🤝 Soft Skill
+- Comunicação eficaz
+- Trabalho em equipe
+- Organização
+- Criatividade
+- Flexibilidade
 
-- 🔭 Atualmente estou trabalhando em [projeto ou área de interesse].
-- 🌱 Aprendendo sobre [tecnologias ou áreas que está estudando].
-- 📫 Me encontre em:
-  - [LinkedIn](https://www.linkedin.com/in/nat%C3%A3-baracho-7a997934a/)
-  - 📧 Email: baracho.natan@gmail.com
 # Conect-se comigo
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natan_baracho)
@@ -30,4 +37,21 @@ Sou [seu nome ou nome de usuário]! 🚀
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Obrigado por visitar meu perfil! 😃
+
+## GitHub Status
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
+
+## Minhas Contribuições
+## 2024 – Atual
+Assumi o cargo de Supervisor de TI na Doctors Center, onde também exerço funções de gerente de tecnologia. Lidero operações diárias, coordeno equipes e sou responsável pela implementação de soluções inovadoras voltadas à segurança digital, à otimização de sistemas e à melhoria contínua dos processos internos. Trabalho com foco na transformação digital da empresa, buscando sempre alinhar eficiência técnica com inovação estratégica.
+## 2022 – 2024
+Atuei na JFTEC, prestando serviços técnicos em microcomputadores, realizando instalações de redes corporativas e atuando na venda de acessórios para informática. Essa experiência reforçou minha capacidade de lidar com demandas práticas, comerciais e técnicas da área de TI, além de fortalecer minha atuação em ambientes corporativos.
+## 2020 – 2021
+Trabalhei no Nosso Atacarejo, onde fui responsável pela instalação e manutenção de servidores, racks e softwares. Também ofereci suporte técnico a microcomputadores e participei diretamente da implantação da infraestrutura de rede nas afiliadas, garantindo conectividade e eficiência operacional. Além disso, realizei o monitoramento de banco de dados e sistemas, e a instalação de câmeras de segurança NVR e DVR, assegurando estabilidade e proteção dos dados da empresa.
+## 2008
+Ampliei minha atuação como auxiliar de professor no Instituto Gurilândia, no estado do Rio Grande do Norte. Lá, ofereci suporte técnico à escola e participei da manutenção dos sistemas e equipamentos. Essa fase foi essencial para consolidar meu compromisso com a tecnologia aplicada à educação e à melhoria de ambientes de aprendizagem.
+## 2006
+Foi o ano em que entrei oficialmente na área de tecnologia da informação. Fiz meu primeiro curso de TI com foco em redes, manutenção de microcomputadores e design. Desde então, venho atuando na área com dedicação e curiosidade constante pelas inovações tecnológicas. Logo após concluir o curso, fui convidado a atuar como auxiliar de professor na própria instituição onde estudei, colaborando com suporte técnico e apoio aos alunos. Essa experiência me ajudou a desenvolver habilidades práticas e reforçar minha base de conhecimento.
+
