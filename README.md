@@ -21,8 +21,8 @@ Profissional com mais de 20 anos de experiência em tecnologia da informação, 
 Curso superior em andamento com foco em desenvolvimento de sistemas, arquitetura de software e práticas modernas de engenharia.
 
 2024 – Atual (em andamento)
-🖥️ Desenvolvimento de Sistemas e TI – [SENAI](https://www.senai-ce.org.br/paginas/unidade-juazeiro-do-norte)
-Formação técnica em andamento voltada para programação, redes, banco de dados e infraestrutura de tecnologia da informação.
+🖥️ Desenvolvimento de Sistemas – [SENAI](https://www.senai-ce.org.br/paginas/unidade-juazeiro-do-norte)
+ Formação técnica em andamento, com sólida formação em diversas áreas da Tecnologia da Informação, abrangendo desde os fundamentos e infraestrutura até o desenvolvimento, modelagem, implantação, manutenção e teste de sistemas.
 
 2019 (concluído)
 📖 Bacharelado em Teologia – [Faculdade Batista Regular](https://www.faculdadebatistacariri.edu.br)
