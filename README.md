@@ -15,7 +15,7 @@ Profissional com mais de 20 anos de experiência em tecnologia da informação, 
 - Organização
 - Criatividade
 - Flexibilidade
-# 🎓Graguação
+# 🎓Graduação
 2024 – Atual (em andamento)
 📘 Engenharia de Software – [Anhanguera](https://www.anhanguera.com)
 Curso superior em andamento com foco em desenvolvimento de sistemas, arquitetura de software e práticas modernas de engenharia.
