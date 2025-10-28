@@ -21,7 +21,7 @@ Professional with over 20 years of experience in information technology, passion
 📘 Software Engineering  – [Anhanguera](https://www.anhanguera.com)
 Undergraduate degree in progress with a focus on systems development, software architecture, and modern engineering practices.
 
-2024 – Current (in progress)
+2025 – Current (in progress)
 🖥️ Systems Development – [SENAI](https://www.senai-ce.org.br/paginas/unidade-juazeiro-do-norte)
 Technical training in progress, with solid education in various areas of Information Technology, ranging from fundamentals and infrastructure to development, modeling, implementation, maintenance, and system testing.
 
