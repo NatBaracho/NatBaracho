@@ -76,6 +76,9 @@ Technical training with a focus on networks, computer maintenance, technical sup
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathaliaCout&show_icons=true&theme=radical)
+
 ## My Contributions
 ## 2024 – 2025
 I assumed the position of IT Supervisor at Doctors Center, where I also perform technology management functions. I lead daily operations, coordinate teams, and am responsible for implementing innovative solutions focused on digital security, system optimization, and continuous improvement of internal processes. I work with a focus on the company's digital transformation, always seeking to align technical efficiency with strategic innovation.
