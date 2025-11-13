@@ -56,9 +56,9 @@ Technical training with a focus on networks, computer maintenance, technical sup
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ---
 
-##Professional skill
+#Professional skill
 
-
+---
 ## GitHub Status
 <a href="https://github.com/anuraghazra/github-readme-stat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical&langs_count=8&card_width=320" />
