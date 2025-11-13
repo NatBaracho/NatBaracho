@@ -42,7 +42,7 @@ Technical training with a focus on networks, computer maintenance, technical sup
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natan_baracho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natã-baracho-7a997934a)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatBaracho&show_icons=true&theme=radical)
+
 
 
 ## Operating Systems
@@ -71,12 +71,9 @@ Technical training with a focus on networks, computer maintenance, technical sup
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 ## GitHub Status
-<a href="https://github.com/anuraghazra/github-readme-stat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathaliaCout&show_icons=true&theme=radical)
+
+
 
 ## My Contributions
 ## 2024 – 2025
